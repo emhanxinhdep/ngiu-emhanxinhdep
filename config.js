@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Gud morrninggg, I luv u!',
-    introDesc: `Anh iu ahh...
-    bé triet ahhh...
+    introDesc: `Anh iu oii
     bé han có điều này muốn hỏi nhớ phải trả lời thật nòng nhaa`,
     btnIntro: 'ố kê lunn',
     title: 'Anh có iu em hongg??',
