@@ -15,3 +15,4 @@ const CONFIG = {
     messDesc: 'bé triet nhắn tin cho iem ngay đi nhóo',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100024550323193'
+}
